@@ -132,6 +132,36 @@
 </tr>
 </table>
 
+<table>
+<tr>
+<td width="25%">
+  <a href="https://go.apimart.ai/gh-agency-agents-zh">
+    <img src="assets/sponsor-apimart.jpeg" alt="APIMart — 專注 AI 圖片/影片生成的低價 API 平台，GPT-Image-2 低至 $0.006/張，圖片與影片共用一套非同步 API" width="100%">
+  </a>
+</td>
+<td width="75%" valign="middle">
+
+感謝 [APIMart](https://go.apimart.ai/gh-agency-agents-zh) 贊助了本專案！APIMart 是專注 AI 圖片/影片生成的低價 API 平台，GPT-Image-2 低至 $0.006/張，1 美元可出圖 160+ 張。圖片、影片共用一套非同步 API，提交任務拿 ID、輪詢或回調取結果，跑批萬張不逾時、換模型不改程式碼。按量付費、無月費。🎁 **通過[此連結](https://go.apimart.ai/gh-agency-agents-zh)註冊即可開用！**
+
+</td>
+</tr>
+</table>
+
+<table>
+<tr>
+<td width="25%">
+  <a href="https://metaso.cn/minimax-h3/?s=gt533367">
+    <img src="assets/sponsor-metaso.jpeg" alt="秘塔科技 — 高性價比 MiniMax H3 影片生成 API 服務，768P 0.09 元/秒、2K 0.15 元/秒，相容 OpenAI 協議、支援 ComfyUI" width="100%">
+  </a>
+</td>
+<td width="75%" valign="middle">
+
+感謝[秘塔科技](https://metaso.cn/minimax-h3/?s=gt533367)贊助了本專案！秘塔科技提供高性價比的 MiniMax H3 影片生成 API 服務，適合漫劇、行銷影片及批量影片生成：768P 低至 0.09 元/秒、2K 0.15 元/秒，原生 2K 畫質，支援音畫同步。API 相容 OpenAI 協議，支援 ComfyUI，無需自行部署模型與 GPU，開箱即用。🎁 **通過[此連結](https://metaso.cn/minimax-h3/?s=gt533367)註冊，即可享有贈送額度及專屬優惠！**
+
+</td>
+</tr>
+</table>
+
 ---
 
 ## 🚀 讓角色庫跑起來 · Agency Orchestrator
